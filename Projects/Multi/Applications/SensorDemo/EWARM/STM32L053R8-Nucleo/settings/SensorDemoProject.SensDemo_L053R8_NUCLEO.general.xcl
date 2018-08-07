@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armstlink2.dll" 
+
+"C:\Users\admin-anickparsa\STM32 Projects\en.X-CUBE-BLE12\STM32CubeExpansion_BLE1_V3.3.0\Projects\Multi\Applications\SensorDemo\EWARM\STM32L053R8-Nucleo\SensDemo_L053R8_NUCLEO\Exe\SensorDemoProject.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\ST\STM32L0xx.dmac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\flashloader\ST\FlashSTM32L0xxx8.board" 
+
+
+
+
